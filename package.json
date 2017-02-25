@@ -1,7 +1,7 @@
 {
-  "name": "react-time",
+  "name": "react-boiler-plat2",
   "version": "1.0.0",
-  "description": "React Timer App",
+  "description": "ReactBoilerPlate2",
   "main": "index.js",
   "scripts": {
     "test": "karma start",
@@ -10,7 +10,13 @@
   "keywords": [
     "React",
     "React-Router",
-    "React-Redux"
+    "Karma",
+    "Expect",
+    "material-design-lite",
+    "webpack",
+    "babel",
+    "ES6",
+    "axios"
   ],
   "author": "Mukesh Sharma",
   "license": "ISC",
